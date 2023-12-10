@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mawAKCV5NyfZfv54zMH2+Ym7UE7fJl6FsUep3Ao9t/i1GfWwb+aX9+qWWixiTCxfKCpEpAtdyrUpUS7jVFTxQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nazar\\Desktop\\lab\\SysBD_lab3\\SysBD_lab3\\SysBD_lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nazar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nazar\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

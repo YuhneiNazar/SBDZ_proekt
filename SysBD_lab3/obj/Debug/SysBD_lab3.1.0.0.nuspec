@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SysBD_lab3</id>
+    <version>1.0.0</version>
+    <authors>SysBD_lab3</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="Npgsql" version="7.0.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nazar\Desktop\lab\SysBD_lab3\SysBD_lab3\bin\Debug\net7.0-windows\SysBD_lab3.runtimeconfig.json" target="lib\net7.0-windows7.0\SysBD_lab3.runtimeconfig.json" />
+    <file src="C:\Users\Nazar\Desktop\lab\SysBD_lab3\SysBD_lab3\bin\Debug\net7.0-windows\SysBD_lab3.dll" target="lib\net7.0-windows7.0\SysBD_lab3.dll" />
+  </files>
+</package>
